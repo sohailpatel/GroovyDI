@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact build-on-make="true" name="mycurd">
+    <output-path>$PROJECT_DIR$/out/artifacts/mycurd</output-path>
+    <root id="root" />
+  </artifact>
+</component>
